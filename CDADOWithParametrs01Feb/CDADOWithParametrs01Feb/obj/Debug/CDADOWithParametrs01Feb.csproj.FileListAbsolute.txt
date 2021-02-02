@@ -1,0 +1,7 @@
+E:\New Chap. Zensar\Setup\Dot Net Projects Jan2021\Class Assignments\CDADOWithParametrs01Feb\CDADOWithParametrs01Feb\bin\Debug\CDADOWithParametrs01Feb.exe.config
+E:\New Chap. Zensar\Setup\Dot Net Projects Jan2021\Class Assignments\CDADOWithParametrs01Feb\CDADOWithParametrs01Feb\bin\Debug\CDADOWithParametrs01Feb.exe
+E:\New Chap. Zensar\Setup\Dot Net Projects Jan2021\Class Assignments\CDADOWithParametrs01Feb\CDADOWithParametrs01Feb\bin\Debug\CDADOWithParametrs01Feb.pdb
+E:\New Chap. Zensar\Setup\Dot Net Projects Jan2021\Class Assignments\CDADOWithParametrs01Feb\CDADOWithParametrs01Feb\obj\Debug\CDADOWithParametrs01Feb.csprojAssemblyReference.cache
+E:\New Chap. Zensar\Setup\Dot Net Projects Jan2021\Class Assignments\CDADOWithParametrs01Feb\CDADOWithParametrs01Feb\obj\Debug\CDADOWithParametrs01Feb.csproj.CoreCompileInputs.cache
+E:\New Chap. Zensar\Setup\Dot Net Projects Jan2021\Class Assignments\CDADOWithParametrs01Feb\CDADOWithParametrs01Feb\obj\Debug\CDADOWithParametrs01Feb.exe
+E:\New Chap. Zensar\Setup\Dot Net Projects Jan2021\Class Assignments\CDADOWithParametrs01Feb\CDADOWithParametrs01Feb\obj\Debug\CDADOWithParametrs01Feb.pdb
